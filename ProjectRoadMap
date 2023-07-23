@@ -4,14 +4,12 @@
 2. Create repository [X]
 3. Add a license [X]
 4. Add and update README file [X]
-5. Code the sqlite database functions from the tutorial []
-6. Test code and ensure it runs correctly []
-7. Add code to gather user input to update or view the database []
+5. Test code and ensure it runs correctly [x]
+6. Add code to gather user input to update or view the database []
     - Add code to confirm if the expense was saved to the database or not [] 
-8. Add code to record and view expenses by date and category []
+7. Add code to record and view expenses by date and category []
     - Fix issue with query to view by date []
-9. If applicable add code to run analysis on credit growth and usage [X] - Tells you how much credit to use based on our budget and when to pay it back
-10. Schedule presentation time [] -Mon. July 20 @ 1:30PM
+8. Schedule presentation time [] -Sun. July 22
     -Practice
-11. Create power point [] 
+11. Create power point [x] 
 12. Present []
