@@ -37,9 +37,8 @@ def get_user_expense():
                 name=expense_name, category=selected_category, amount=expense_amount
             )
             return new_expense
-        else:
+        else :
             print("Invalid category. Please try again!")
-
 
 
 
